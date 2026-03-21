@@ -1,0 +1,49 @@
+{
+  "next_id": 5,
+  "cup": {
+    "name": "Youth Hockey Cup 2025",
+    "location": "Stockholm",
+    "sport_type": "Ice Hockey",
+    "start_date": "2025-06-14",
+    "end_date": "2025-06-16",
+    "description": "Annual youth hockey tournament."
+  },
+  "teams": [
+    {
+      "id": 1,
+      "date_created": "2026-03-21",
+      "name": "Borlange Champions",
+      "type": "boys",
+      "fee_paid": true,
+      "cancelled": false,
+      "cancellation_date": null
+    },
+    {
+      "id": 2,
+      "date_created": "2026-03-21",
+      "name": "Falun Warriors",
+      "type": "boys",
+      "fee_paid": true,
+      "cancelled": false,
+      "cancellation_date": null
+    },
+    {
+      "id": 3,
+      "date_created": "2026-03-21",
+      "name": "Ludvika Experts",
+      "type": "girls",
+      "fee_paid": false,
+      "cancelled": true,
+      "cancellation_date": "2026-03-21"
+    },
+    {
+      "id": 4,
+      "date_created": "2026-03-21",
+      "name": "Leksand Dynamos",
+      "type": "girls",
+      "fee_paid": false,
+      "cancelled": false,
+      "cancellation_date": null
+    }
+  ]
+}
